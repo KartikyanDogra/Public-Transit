@@ -31,7 +31,7 @@ The capacity of a bus loading area ($B_l$) is strictly governed by the amount of
 
 The loading area capacity is calculated using the formula:
 $$B_l = \frac{3600(g/C)}{t_c + t_d(g/C) + t_{om}}$$
-<i>(Where $g/c$ is the green time ratio and $t_{om}$ is the operating margin).</i>
+<i>(Where $g/C$ is the green time ratio and $t_{om}$ is the operating margin).</i>
 
 Because dwell time ($t_d$) is the denominator, **an increase in dwell time decreases the maximum number of buses (and consequently, the person capacity) that can pass through the corridor per hour.**
 
