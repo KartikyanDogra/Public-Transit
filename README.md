@@ -53,4 +53,4 @@ QoS is the overall measured or perceived performance of the transit service from
 
 ## References / Acknowledgments
 
-* "Transit capacity and quality of service" by Dr. Pramesh Kumar for the course CVL746: Public Transportation Systems at the Indian Institute of Technology (IIT) Delhi. Available at: [tcqs.pdf](https://prameshk.github.io/CVL746/Lec/tcqs.pdf)
+* "Transit capacity and quality of service" by Prof. Pramesh Kumar for the course CVL746: Public Transportation Systems at the Indian Institute of Technology (IIT) Delhi. Available at: [tcqs.pdf](https://prameshk.github.io/CVL746/Lec/tcqs.pdf)
