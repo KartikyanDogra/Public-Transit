@@ -51,3 +51,6 @@ QoS is the overall measured or perceived performance of the transit service from
 - `data/`: Contains the sample input data (`OD_MAGENTA...xlsx`).
 - `requirements.txt`: Python dependencies.
 
+## References / Acknowledgments
+
+* "Transit capacity and quality of service" by Dr. Pramesh Kumar for the course CVL746: Public Transportation Systems at the Indian Institute of Technology (IIT) Delhi. Available at: [tcqs.pdf](https://prameshk.github.io/CVL746/Lec/tcqs.pdf)
