@@ -1,0 +1,1 @@
+pandas and openpyxl libraries. 
